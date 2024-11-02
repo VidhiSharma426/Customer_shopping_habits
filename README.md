@@ -28,7 +28,7 @@ The Power BI dashboard enables users to explore the data interactively with the 
 - **Segmented Insights**: Custom segments by demographics to reveal unique shopping patterns.
 - **Actionable Recommendations**: Strategies for targeted marketing and improved customer engagement.
 
-[View the Dashboard](#) _[_](https://www.linkedin.com/posts/vidhi-sharma426_powerbi-dataanalytics-customerinsights-activity-7258352036381929472-ZIEX?utm_source=share&utm_medium=member_desktop)
+[View the Dashboard](https://www.linkedin.com/posts/vidhi-sharma426_powerbi-dataanalytics-customerinsights-activity-7258352036381929472-ZIEX?utm_source=share&utm_medium=member_desktop)
 
 ---
 
